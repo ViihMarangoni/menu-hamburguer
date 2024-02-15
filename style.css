@@ -24,6 +24,11 @@ body {
     margin: 0;
   }
   
+
+  #menu-toggle {
+    display: none;
+  }
+  
   .menu li {
     padding: 15px;
   }
